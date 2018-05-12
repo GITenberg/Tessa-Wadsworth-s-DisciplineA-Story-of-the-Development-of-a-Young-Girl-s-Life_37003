@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '3467'
     url: http://www.gutenberg.org/2009/agents/3467
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37003#Tessa-Wadsworth-s-DisciplineA-Story-of-the-Development-of-a-Young-Girl-s-Life
 gutenberg_issued: '2011-08-07'
 gutenberg_type: Text
 identifiers:
